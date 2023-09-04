@@ -222,8 +222,12 @@ width: 370px;
 
 .photo{
 
-width: 390px;
+width: 300px;
+height: auto;
+padding: 25px;
 margin-bottom: 25px;
+border-radius: 50%;
+
 }
 
 .contacts,
